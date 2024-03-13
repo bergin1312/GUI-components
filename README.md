@@ -157,12 +157,12 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-![Screenshot (421)](https://github.com/ArpanBardhan/GUI-components/assets/119405037/830b9be3-7038-4347-b492-3c7702f6ead6)
-![Screenshot (422)](https://github.com/ArpanBardhan/GUI-components/assets/119405037/808948e0-e6ac-4a47-b5e4-a678589c2af5)
-![Screenshot (423)](https://github.com/ArpanBardhan/GUI-components/assets/119405037/bc8bb33d-0958-4cb8-b332-e37fc96cc4fe)
-![Screenshot (424)](https://github.com/ArpanBardhan/GUI-components/assets/119405037/9eee27c8-1062-4c7a-acfb-685bebd9f787)
-![Screenshot (425)](https://github.com/ArpanBardhan/GUI-components/assets/119405037/3180f96f-8ff0-47d3-a9ca-dadf0a79a7b9)
 
+![bergin](https://github.com/bergin1312/GUI-components/assets/119404594/e0f4a02e-6875-4d2f-a3f5-b8c65c22fd14)
+![bergin2](https://github.com/bergin1312/GUI-components/assets/119404594/4306c0ff-2bf0-4bc6-bf37-a9794102c33a)
+![bergin3](https://github.com/bergin1312/GUI-components/assets/119404594/b02e1db6-a31b-436d-8b14-0d21378a9804)
+![bergin4](https://github.com/bergin1312/GUI-components/assets/119404594/42daa6d0-d201-453a-9e5f-fdb01a628bd0)
+![bergin5](https://github.com/bergin1312/GUI-components/assets/119404594/c6543a7a-8a0f-493c-b3b3-a79c4709204f)
 
 
 
